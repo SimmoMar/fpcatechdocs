@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+FPCA Live Streaming / Sanctuary Audio Management Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This website contains documentation to assist you in weekly front of house (FOH) audio control or live streaming tasks in the Sanctuary for Sunday services.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+The site is broken up into the following sections:
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   workstations
+   controllingaudio
+   livestreaming
+
