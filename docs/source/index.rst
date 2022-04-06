@@ -14,4 +14,5 @@ Contents
    workstations
    controllingaudio
    livestreaming
+   software
 
