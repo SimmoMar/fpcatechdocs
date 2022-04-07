@@ -1,13 +1,13 @@
 Controlling Audio
-=================
+#################
 
 Powering Up / Powering Down Equipment
--------------------------------------
+*************************************
 
 .. _powering-up-rack:
 
 Powering Up Audio Equipment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 #. Turn the rig on by flipping the master power switch.  When it is off, it is flipped to the left.  When it is on, it is flipped to the right.
 
@@ -43,7 +43,7 @@ Powering Up Audio Equipment
    * Open Master Fader and select "The Rig" from the device list.
 
 Powering Down Audio Equipment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
 
 #. You do not need to do anything special to save any settings or shutdown safely.  When all live-streaming is done:
 
@@ -54,14 +54,14 @@ Controlling the Equipment
 -------------------------
 
 The Rack
-~~~~~~~~
+========
 
 Behind the organ in the sanctuary, there are two equipment racks with a variety of components in them.  You are not expected to change any of this configuration or worry about 
 any settings in particular.  If special accommodations are required for a particular performer or ensemble, an audio enginner 
 will be available to assist.
 
 The Left Half
-^^^^^^^^^^^^^
+=============
 
 The left half of the rig has the following components in it to serve the following functions
 
@@ -82,6 +82,6 @@ In order:
 
 
 Master Fader
-~~~~~~~~~~~~
+============
 
-Master Fader is an application provided by Mackie, the manufactured of the DL32R mixer we use for audio management.
+Master Fader is an application provided by Mackie, the manufactured of the DL32R mixer we use for audio management. (:ref:`See: 'Master Fader 5' <app-master-fader-5>`)
