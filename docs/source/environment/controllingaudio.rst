@@ -11,7 +11,7 @@ Powering Up Audio Equipment
 
 #. Turn the rig on by flipping the master power switch.  When it is off, it is flipped to the left.  When it is on, it is flipped to the right.
 
-    .. figure:: ../images/Rig-Power-Switch.jpg
+    .. figure:: ../../images/Rig-Power-Switch.jpg
 
     The rig power switch, found on the left-rack on the bottom.  In this image, it is on because it is flipped to the right.
 
@@ -19,19 +19,19 @@ Powering Up Audio Equipment
 
 #. Turning the rig on will turn on the right speaker, but the left one must be flipped on manually.
 
-    .. figure:: ../images/Speaker-Left.jpg
+    .. figure:: ../../images/Speaker-Left.jpg
 
     The left speaker on its post
 
     |
 
-    .. figure:: ../images/Speaker-Rear.jpg
+    .. figure:: ../../images/Speaker-Rear.jpg
 
     The power switch is found on the lower right-hand side at the back
 
     |
 
-    .. figure:: ../images/Speaker-Powered.jpg
+    .. figure:: ../../images/Speaker-Powered.jpg
 
     When powered on, the speaker will have a blue light illuminated on the front.
 
@@ -65,7 +65,7 @@ The Left Half
 
 The left half of the rig has the following components in it to serve the following functions
 
-.. figure:: ../images/Rig-Left.jpg
+.. figure:: ../../images/Rig-Left.jpg
 
     The left half of the sanctuary equipment rack
 

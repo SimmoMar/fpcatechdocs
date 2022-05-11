@@ -1,18 +1,29 @@
 FPCA Live Streaming / Sanctuary Audio Management Documentation
 ##############################################################
 
-This website contains documentation to assist you in weekly front of house (FOH) audio control or live streaming tasks in the Sanctuary for Sunday services.
+Operational Help
+****************
 
-The site is broken up into the following sections:
+If you are assigned any of the following responsibilities
 
-Contents
-********
+* Audio
+* Live Streaming
+* Slides
+
+Follow this link to take you directly to operational information:
+
+:doc:`Operational Help <operational/prodstart>`
+
+Site Contents
+*************
+
+Aside from operational information, you can find all kinds of 
+other information on how our equipment is configured 
+from the links below.
 
 .. toctree::
 
-   credentials
-   workstations
-   controllingaudio
-   livestream
-   software
+   operational/prodstart
+   environment/envstart
+   
 

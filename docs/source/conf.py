@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'FPCA Tech Docs'
-copyright = '2022, Mark Simmons'
-author = 'Mark Simmons'
+copyright = '2022, FPCA Technical Team'
+author = 'Mark Simmons, Sean Metzgar'
 
 release = '0.1'
 version = '0.1.0'
