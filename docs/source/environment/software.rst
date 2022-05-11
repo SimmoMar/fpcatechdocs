@@ -9,7 +9,7 @@ Audio Specific Applications
 Master Fader 5
 ==============
 
-.. image:: ../images/icons/master_fader_5.png
+.. image:: ../../images/icons/master_fader_5.png
   :width: 100px
   :align: right
 
@@ -38,7 +38,7 @@ Livestream & Video Applications
 vMix
 ====
 
-.. image:: ../images/icons/vmix.png
+.. image:: ../../images/icons/vmix.png
   :width: 100px
   :align: right
 
@@ -59,7 +59,7 @@ There is a free 60-day trial if you wish you try this software on your home comp
 Wisenet Wave
 ============
 
-.. image:: ../images/icons/wisenet_wave.png
+.. image:: ../../images/icons/wisenet_wave.png
   :width: 100px
   :align: right
 
@@ -80,7 +80,7 @@ Web-based Applications
 Planning Center Services
 ========================
 
-.. image:: ../images/icons/planning_center_services.png
+.. image:: ../../images/icons/planning_center_services.png
   :width: 100px
   :align: right
 
@@ -96,7 +96,7 @@ The LiveStreaming computer and MacPro may already be logged in under the FPCA Te
 Agile Technology
 ================
 
-.. image:: ../images/icons/agile.png
+.. image:: ../../images/icons/agile.png
   :width: 100px
   :align: right
 
