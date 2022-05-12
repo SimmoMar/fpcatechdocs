@@ -26,6 +26,8 @@ The Workstation - Connecting to the Apple TV
 
        If at this point you see the monitor on the right mirrors the Apple TV on the floor, you can skip the rest of these steps.
 
+#. The password is written on a sticky note with the computer.
+
 #. Hit **Command + Space** on the keyboard to bring up the "Search Spotlight".
      * Enter the word **Displays**.  Hit enter again to accept the selection it shows and open the Displays control.
 #. With Displays visible, click "Add Display" in the lower left-hand corner.
@@ -118,4 +120,3 @@ to ensure that audio is properly routed to the HDMI connector on the projector w
 
       There should be a little blue circle next to the "Sanctuary Apple TV" output
 
-      
